@@ -1,2 +1,3 @@
 Hola a todos estudiantes de BIT
-Espero que todos aprendan todo lo relacionado cpn el mundo del desarrollo web.
+Espero que todos aprendan todo lo relacionado con el mundo del desarrollo web.
+Debo repasar todo lo visto en clase para afianzar conocimientos.
